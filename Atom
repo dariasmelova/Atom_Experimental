@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-// function main begins program execution 
+// function main begins program execution
 int main( void )
 {
-   printf( "Atom-1\n" );
-} // end function main 
+   printf( "Atom-2\n" );
+} // end function main
